@@ -1,16 +1,16 @@
-### Hi there 👋
+## [EN]
+#### Hello! I'm an amateur pixel artist from Siberia (Russia). 
+- I speak Russian and English
+- I make textures for Minecraft and work on my own game
+- My Telegram is @temhotaokeaha
 
-<!--
-**temhotaokeaha/temhotaokeaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+If you're interested in more details, you can read more [**here**](http://github.com/temhotaokeaha/temhotaokeaha/README_EXTENDED_EN.md). 
 
-Here are some ideas to get you started:
+## [RU / РУС]
+#### Привет! Я из Новосибирска и рисую пиксель-арт. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Говорю на русском и английском
+- Делаю текстуры для майна и работаю над собственной игрой
+- В телеграме @temhotaokeaha
+
+Если вас интересует более подробная информация, загляните [**сюда**](http://github.com/temhotaokeaha/temhotaokeaha/README_EXTENDED_RU.md). 
