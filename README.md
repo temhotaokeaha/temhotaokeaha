@@ -1,4 +1,1 @@
-# ⚫🌊
-![Banner](banner.png)
-### [[EN] My website](http://temhotaokeaha.github.io/index.html)
-### [[RU] Мой сайт](http://temhotaokeaha.github.io/ru.html)
+To people I know: I can't access my old Discord account, please add my current one, it's **temhotaokeaha#1769**
